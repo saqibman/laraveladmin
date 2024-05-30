@@ -43,6 +43,10 @@
                                             class="icon icon-shape icon-lg bg-gradient-primary shadow text-center border-radius-lg">
                                             <i class="fas fa-landmark opacity-10"></i>
                                         </div>
+                                        <div
+                                            class="icon icon-shape icon-lg bg-gradient-primary shadow text-center border-radius-lg">
+                                            <i class="fas fa-landmark opacity-10"><i class="fas fa-landmark opacity-10"></i><i class="fas fa-landmark opacity-10"></i></i>
+                                        </div>
                                     </div>
                                     <div class="card-body pt-0 p-3 text-center">
                                         <h6 class="text-center mb-0">Salary</h6>
